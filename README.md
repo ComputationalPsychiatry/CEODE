@@ -3,9 +3,10 @@ TAPAS ceode toolbox
 
 *Current Version: Release 09.2020*
 
+*Tested with Matlab 2022a and released on Computational Psychiatry 03.2025*
+
 > Copyright (C) 2020  
-> Dario Schöbi  
-> <dschoebi(at)biomed.ee.ethz.ch>  
+> Dario Schöbi 
 >  
 > Translational Neuromodeling Unit (TNU)  
 > Institute for Biomedical Engineering  
@@ -15,11 +16,11 @@ TAPAS ceode toolbox
 Download
 --------
 
-- Please download the latest stable versions of the ceode Toolbox on GitHub as part of the 
-  [TAPAS software releases of the TNU](https://github.com/translationalneuromodeling/tapas/releases).
+- Please download the latest stable versions of the ceode Toolbox on GitHub from
+  [main branch](https://github.com/ComputationalPsychiatry/CEODE/tree/main).
 - The latest bugfixes can be found in the 
-  [development branch of TAPAS](https://github.com/translationalneuromodeling/tapas/tree/development) 
-  and are announced in the [GitHub Issue Forum](https://github.com/translationalneuromodeling/tapas/issues). 
+  [development branch](https://github.com/ComputationalPsychiatry/CEODE/tree/development) 
+  and are announced in the [CEODE Issue Forum](https://github.com/ComputationalPsychiatry/CEODE/issues). 
 
 
 Purpose
@@ -147,7 +148,7 @@ Documentation for this toolbox is provided in the following forms
 
 Compatibility
 -------------
-- MATLAB (tested with MATLAB R2017b)
+- MATLAB (tested with MATLAB R2017b and R2022a)
 - SPM12 (tested with SPM12, ver.7219 and ver.7771)
 
 
@@ -155,12 +156,12 @@ Contributors
 ------------
 
 - Lead Programmer: 
-    - [Dario Schöbi](https://www.tnu.ethz.ch/en/team/faculty-and-scientific-staff/schoebi),
+    - [Dario Schöbi],
       TNU, University of Zurich & ETH Zurich
 - Coding and Revision:
     - Cao Tri Do, TNU Zürich
 - Project Team: 
-    - Jakob Heinzle, TNU Zurich
+    - Jakob Heinzle, TNU Zurich (current maintainer of the toolbox)
     - Klaas Enno Stephan, TNU Zurich
 
 
@@ -176,20 +177,21 @@ References
 
 ### Main Toolbox Reference
 
-Schöbi D., Do C.T., Heinzle J., Stephan K.E., 
-*Technical Note: A novel delay differential integration method for DCM for ERP*
-(in prep)
+1. Schöbi D., Do C.T., Frässle S., Tittgemeyer M., Heinzle J., Stephan K.E., 
+A fast and robust integrator of delay differential equations in DCM for electrophysiological data Neuroimage, 244, 118567
+[https://doi.org/10.1016/j.neuroimage.2021.118567](https://doi.org/10.1016/j.neuroimage.2021.118567)
 
-Schöbi D.
+2. Schöbi D.
 *Dynamic causal models for inference on neuromodulatory processes in neural circuits.*
-ETH Zürich (Dissertation; Chapter 2)
+ETH Zürich (Dissertation: [https://doi.org/10.3929/ethz-b-000429311](https://doi.org/10.3929/ethz-b-000429311); Chapter 2)
 
 
 ### Related Papers
 
 1. Schöbi D., Jung F., Frässle S., Endepols H., Moran R.J., Friston K.J., Tittgemeyer M., Heinzle J., Stephan K.E.
 Model-based prediction of muscarinic receptor function from auditory mismatch negativity responses.
-bioRXiv. https://doi.org/10.1101/2020.06.08.139550
+Neuroimage, 244, 118567
+[https://doi.org/10.1016/j.neuroimage.2021.118096](https://doi.org/10.1016/j.neuroimage.2021.118096)
 
 
 

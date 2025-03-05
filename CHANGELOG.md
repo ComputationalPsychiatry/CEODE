@@ -2,6 +2,11 @@
 Toolbox to integrate delay differential equations (DDEs) underlying convolution based Dynamic Causal Models for ERPs. 
 The method uses a continuous extension of an Euler method, resulting in a robust and fast integration of the DDE.
 
+## [1.1] 05-03-2025
+
+### Changes
+- Adapted README.md for new structure on Computational Psychiatry.
+- Performed basic tests with newer Matlab Version 2022a
 
 ## [1.0] 25-08-2020
 
