@@ -19,8 +19,7 @@ Download
 - Please download the latest stable versions of the ceode Toolbox on GitHub from
   [main branch](https://github.com/ComputationalPsychiatry/CEODE/tree/main).
 - The latest bugfixes can be found in the 
-  [development branch](https://github.com/ComputationalPsychiatry/CEODE/tree/development) 
-  and are announced in the [CEODE Issue Forum](https://github.com/ComputationalPsychiatry/CEODE/issues). 
+  development branch and are announced in the [CEODE Issue Forum](https://github.com/ComputationalPsychiatry/CEODE/issues). 
 
 
 Purpose
@@ -131,7 +130,7 @@ Replace D = [2, 16] (ERP) or D = [1, 8] (CMC) to the desired scaling factors.
 Contact/Support
 ---------------
 
-In case you encouter problems with this toolbox, please refer to the [GitHub Issue Forum](https://github.com/translationalneuromodeling/tapas/issues).
+In case you encouter problems with this toolbox, please refer to the[CEODE Issue Forum](https://github.com/ComputationalPsychiatry/CEODE/issues).
 
 
 Documentation
