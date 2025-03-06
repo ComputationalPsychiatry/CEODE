@@ -130,7 +130,7 @@ Replace D = [2, 16] (ERP) or D = [1, 8] (CMC) to the desired scaling factors.
 Contact/Support
 ---------------
 
-In case you encouter problems with this toolbox, please refer to the[CEODE Issue Forum](https://github.com/ComputationalPsychiatry/CEODE/issues).
+In case you encouter problems with this toolbox, please refer to the [CEODE Issue Forum](https://github.com/ComputationalPsychiatry/CEODE/issues).
 
 
 Documentation
